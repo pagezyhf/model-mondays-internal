@@ -37,6 +37,8 @@ Use the Skill tool with `skill: "hugging-face-cli"` to:
 1. Get model metadata using `hf models info <repo_id>` for specifications, downloads, tags, etc.
 2. Download README.md directly using `hf download <repo_id> README.md --local-dir <temp_dir>` to read model cards, benchmarks, and detailed documentation
 
+**If key information (like parameter count) is not disclosed on Hugging Face, use WebSearch to find it from official sources, papers, or reputable AI news sites.**
+
 **Always research the provided models using the HF CLI before writing blog content to ensure accuracy.**
 
 ## Blog Post Structure

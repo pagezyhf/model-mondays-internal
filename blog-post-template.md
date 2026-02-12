@@ -61,12 +61,9 @@ This week's Model Mondays edition highlights three Hugging Face models including
 
 ## Getting started
 
-You can deploy open‑source Hugging Face models directly in Microsoft Foundry by browsing the Hugging Face collection in the Foundry model catalog and deploying to managed endpoints in just a few clicks. You can also start from the Hugging Face Hub. First, select any supported model and then choose "Deploy on Microsoft Foundry", which brings you straight into Azure with secure, scalable inference already configured. Learn how to discover models and deploy them using Microsoft Foundry documentation.
+You can deploy open-source Hugging Face models directly in Microsoft Foundry by browsing the Hugging Face collection in the Foundry model catalog and deploying to managed endpoints in just a few clicks. You can also start from the Hugging Face Hub. First, select any supported model and then choose "Deploy on Microsoft Foundry", which brings you straight into Azure with secure, scalable inference already configured. Learn how to discover models and deploy them using Microsoft Foundry documentation.
 
-Follow along the Model Mondays series and access the GitHub to stay up to date on the latest
-
-Read Hugging Face on Azure docs
-
-Learn about one-click deployments from the Hugging Face Hub on Microsoft Foundry
-
-Explore models in Microsoft Foundry
+* [Follow along the Model Mondays series and access the GitHub to stay up to date on the latest](https://github.com/microsoft/model-mondays/blob/main/docs/hugging-face/README.md)
+* [Read Hugging Face on Azure docs](https://huggingface.co/docs/microsoft-azure/en/index)
+* [Learn about one-click deployments from the Hugging Face Hub on Microsoft Foundry](https://huggingface.co/docs/microsoft-azure/en/guides/one-click-deployment-foundry)
+* [Explore models in Microsoft Foundry](https://ai.azure.com/catalog/publishers/hugging%20face,huggingface)
