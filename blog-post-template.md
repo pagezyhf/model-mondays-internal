@@ -1,7 +1,5 @@
 # What's trending in Hugging Face?
 
-Each week we showcase trending Hugging Face models that are now available in Microsoft Foundry.
-
 [Introduction paragraph focused on open source landscape and editorial theme for the models of the week]
 
 This week's Model Mondays edition highlights three Hugging Face models including MODEL 1 SUMMARY, MODEL 2 SUMMARY, MODEL 3 SUMMARY.
