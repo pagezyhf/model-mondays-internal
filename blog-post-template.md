@@ -1,4 +1,4 @@
-# What's trending in Hugging Face?
+# Now in Foundry: [model names]
 
 [Introduction paragraph focused on open source landscape and editorial theme for the models of the week]
 
@@ -13,7 +13,7 @@ This week's Model Mondays edition highlights three Hugging Face models including
 - Context length:
 - Primary task: (text‑gen, embeddings, translation, RAG, VLM, audio, etc.)
 
-**Why it's interesting (Spotlight)**
+**Why it's interesting**
 - 2-4 bullet points on what is new about this model and the value of the model to a developer
 - Benchmarks: (metric + dataset + score + link)
 
@@ -30,7 +30,7 @@ This week's Model Mondays edition highlights three Hugging Face models including
 - Context length:
 - Primary task: (text‑gen, embeddings, translation, RAG, VLM, audio, etc.)
 
-**Why it's interesting (Spotlight)**
+**Why it's interesting**
 - 2-4 bullet points on what is new about this model and the value of the model to a developer
 - Benchmarks: (metric + dataset + score + link)
 
@@ -47,7 +47,7 @@ This week's Model Mondays edition highlights three Hugging Face models including
 - Context length:
 - Primary task: (text‑gen, embeddings, translation, RAG, VLM, audio, etc.)
 
-**Why it's interesting (Spotlight)**
+**Why it's interesting**
 - 2-4 bullet points on what is new about this model and the value of the model to a developer
 - Benchmarks: (metric + dataset + score + link)
 

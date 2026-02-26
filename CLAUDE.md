@@ -111,6 +111,9 @@ For each model:
 - **Microsoft Foundry context**: All "Try it" sections and sample prompts should reflect the Microsoft Foundry deployment scenario (managed endpoints, API calls) rather than local deployment with specific inference engines
 - **Don't mention infrastructure details**: Avoid mentioning specific inference engines (SGLang, vLLM) or versions—users deploying via Microsoft Foundry don't need these implementation details
 - **Only feature the highlighted models**: Don't mention related models that aren't part of the week's featured collection (e.g., don't mention Qwen3-ForcedAligner-0.6B if only Qwen3-ASR-1.7B is featured)
+- **Adjust the editorial angle based on model availability**: If the featured models are newly added to Microsoft Foundry, the intro angle is "now available in Foundry." If the models are not newly added, shift the angle to why they've stayed relevant—e.g., "models that have managed to stay relevant in a rapidly expanding sea of options." Always ask or confirm with the user whether the models are new to Foundry before writing the intro.
+- **Avoid superlatives and informal hyperbole**: Replace words like "massive", "battle-tested", or "domination" with precise, measured language (e.g., "multilingual adoption", "peer reviewed", "strong performance").
+- **Soften Microsoft brand attribution in model descriptions**: Avoid explicitly naming Microsoft as the source of a base model (e.g., use "BioMed BERT family" instead of "microsoft/BiomedNLP-PubMedBERT") to prevent over-attribution in Azure-published content.
 
 ### Technical Details
 - **Always use HF paper links**: Replace arxiv.org links with huggingface.co/papers links (e.g., `https://huggingface.co/papers/2601.21337` instead of `https://arxiv.org/abs/2601.21337`)
@@ -119,3 +122,5 @@ For each model:
 
 ### Final Publication
 - **Markdown is the foundation**: The markdown file contains content only—images, GIFs, embedded demos, and other rich media are added during the publication process
+- **Sample prompts are plain text, not blockquotes**: Do not wrap sample prompts in `>` blockquote syntax—the publishing platform handles styling
+- **`aka.ms` shortlinks are added at publication time**: Write full URLs in the draft; shortlinks for model headings and footer resources are swapped in during the final publishing step, not in the markdown draft

@@ -7,6 +7,11 @@ This repository automates the creation of Model Mondays blog posts - a weekly se
 - [Model Mondays Public Content](https://github.com/microsoft/model-mondays/blob/main/docs/hugging-face/README.md)
 - [Blog Post Template](./blog-post-template.md)
 
+## Internal Resources
+
+- [Model Mondays Draft Blogs](https://docs.google.com/document/d/15pT5-Bey_2DNyO2vLW3q59NQxd0HWloq4CSOT04CBgE/edit?tab=t.jcn7vay1yvj2)
+- [Blog Post Template](./blog-post-template.md)
+
 ## Previous Blog Posts
 
 | Date | Title | Link |
