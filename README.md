@@ -20,6 +20,7 @@ This repository automates the creation of Model Mondays blog posts - a weekly se
 | Feb 9, 2026 | What is trending in Hugging Face on Microsoft Foundry | [Tech Community Blog](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/now-in-foundry-qwen3-coder-next-qwen3-asr-1-7b-z-image/4493284) |
 | Feb 23, 2026 | What is trending in Hugging Face on Microsoft Foundry | [Tech Community Blog](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/what%E2%80%99s-trending-on-hugging-face-pubmedbert-base-embeddings-paraphrase-multilingu/4496185) |
 | Mar 2, 2026 | Now in Foundry: Qwen3.5 Medium Model Series | [Tech Community Blog](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/now-in-foundry-qwen3-5-medium-model-series/4498640) |
+| Mar 9, 2026 | Now in Foundry: VibeVoice-ASR and MiniMax M2.5 | Draft |
 
 ## Featured Models
 
@@ -37,3 +38,5 @@ This repository automates the creation of Model Mondays blog posts - a weekly se
 | Mar 2, 2026 | [Qwen/Qwen3.5-27B](https://huggingface.co/Qwen/Qwen3.5-27B) | 27B (dense) | Vision Language Model |
 | Mar 2, 2026 | [Qwen/Qwen3.5-35B-A3B](https://huggingface.co/Qwen/Qwen3.5-35B-A3B) | 35B total, 3B active (MoE) | Vision Language Model |
 | Mar 2, 2026 | [Qwen/Qwen3.5-122B-A10B](https://huggingface.co/Qwen/Qwen3.5-122B-A10B) | 122B total, 10B active (MoE) | Vision Language Model |
+| Mar 9, 2026 | [microsoft/VibeVoice-ASR-HF](https://huggingface.co/microsoft/VibeVoice-ASR-HF) | ~8.3B | ASR with Diarization & Timestamps |
+| Mar 9, 2026 | [MiniMaxAI/MiniMax-M2.5](https://huggingface.co/MiniMaxAI/MiniMax-M2.5) | ~229B (FP8, MoE) | Text Generation (Agentic) |
